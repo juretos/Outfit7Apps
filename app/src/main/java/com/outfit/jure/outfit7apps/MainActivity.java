@@ -25,7 +25,7 @@ public class MainActivity extends ListActivity {
     public static final String EXTRA_TITLE = "com.outfit.TITLE";
     private ArrayList<App> appList;
     private ApplicationArrayAdapter listadaptor;
-    private String OUTFIT7_PACKAGE = "com.outfit7";
+    private String OUTFIT7_PACKAGE = "com.outfit7.";
 
 
     @Override
