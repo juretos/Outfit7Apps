@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Outfit7 Apps</string>
     <string name="app_infos">Application info</string>
+    <string name="open_app">Open app</string>
+    <string name="version_code">Version code:</string>
+    <string name="version_name">Version name:</string>
+    <string name="p_name">Package name:</string>
 </resources>

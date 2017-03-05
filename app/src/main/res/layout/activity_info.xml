@@ -50,7 +50,7 @@
                 android:padding="6dp">
 
                 <TextView
-                    android:text="Package name:"
+                    android:text="@string/p_name"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content" />
 
@@ -65,7 +65,7 @@
                 android:padding="6dp">
 
                 <TextView
-                    android:text="Version name:"
+                    android:text="@string/version_name"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"/>
 
@@ -81,7 +81,7 @@
                 android:padding="6dp">
 
                 <TextView
-                    android:text="Version code:"
+                    android:text="@string/version_code"
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"/>
 
@@ -97,7 +97,7 @@
 
 
                 <Button
-                    android:text="Open App"
+                    android:text="@string/open_app"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/openApp"
